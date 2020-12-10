@@ -16,6 +16,14 @@
 
 @font-face {
     font-family: 'Cera Pro';
+    src: url('./cerapro/CeraPro-Medium.woff2') format('woff2'),
+        url('./cerapro/CeraPro-Medium.woff') format('woff');
+    font-weight: medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cera Pro';
     src: url('./cerapro/CeraPro-Bold.woff2') format('woff2'),
         url('./cerapro/CeraPro-Bold.woff') format('woff');
     font-weight: bold;
